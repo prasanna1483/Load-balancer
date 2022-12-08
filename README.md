@@ -11,7 +11,7 @@ Network Load Balancer: NLB functions at the transport layer, fourth layer of OSI
 NLB is used for ssh and db
 
 #Routing Algorithm
-
+The default routing algorithm is round robin
 
 
 
